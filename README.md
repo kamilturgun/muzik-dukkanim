@@ -1,2 +1,2 @@
 # muzik-dukkanim
-odev 1 hazir
+bootstrap odev 1 hazir
